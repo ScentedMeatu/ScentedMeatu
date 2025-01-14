@@ -1,7 +1,7 @@
 - 🙋🏽 Hi, I’m Bharath K H
 - 🏎️ I’m interested in formula 1
 - 𝗝𝗦 I’m currently learning Web Development
-- 🤝 I’m looking to collaborate on JS and JAVA projects
+- 🤝 I’m looking to collaborate on Express projects
 - ＠ How to reach me Instagram: @scented.meat
 
 <!---
